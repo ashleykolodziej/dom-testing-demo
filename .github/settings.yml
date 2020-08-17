@@ -1,2 +1,2 @@
 repository:
-  description: my fancy description for ${{ github.repository }}
+  description: `my fancy description for ${{ github.repository }}`
