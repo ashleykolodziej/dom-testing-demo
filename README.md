@@ -1,6 +1,6 @@
 # DOM Testing Demo
 
-This is an experimental project for testing HTML and vanilla JS with Jest and `@testing-library/dom`. You can ![read my article on Medium](levelup.gitconnected.com/how-to-unit-test-html-and-vanilla-javascript-without-a-ui-framework-c4c89c9f5e56?source=friends_link&sk=15836e19406fd422a13411e3ef497c0d) about this project as well.
+This is an experimental project for testing HTML and vanilla JS with Jest and `@testing-library/dom`. You can [read my article on Medium](https://levelup.gitconnected.com/how-to-unit-test-html-and-vanilla-javascript-without-a-ui-framework-c4c89c9f5e56?source=friends_link&sk=15836e19406fd422a13411e3ef497c0d) about this project as well.
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/ashleykolodziej/dom-testing-demo)
 
